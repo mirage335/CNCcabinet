@@ -1,0 +1,34 @@
+Copyright (C) 2015 mirage335
+See the end of the file for license conditions.
+See license.txt for CNCcabinet license conditions.
+
+mirage335-site.dyndns.org
+
+Specialized cabinet for CNC machinery (mill, 3D printer, lathe, VLSI stepper, etc). Expected usage is as follows.
+
+Platforms and Cleaning Supplies - >3" Top Drawer
+Filament - >3" Drawer
+High Tech Supplies (Lithography) - >3" Drawer
+Chemical Feedstocks (Paint, Ink) - >8" Drawer
+Bulk Spare Parts - >8" Bottom Drawer
+
+Top platform height should be <3'6" from ground level, to allow CNC platform placement at eye-level from sitting position, easing alignment tasks. Interrior spaces are specifically sized to accommodate >18"x24" build platforms.
+
+_Alternatives_
+Some commercially available metal cabinets are available, offering slightly less space. Specifically consider: http://www.homedepot.com/p/Husky-27-in-5-Drawer-Rolling-Tool-Cabinet-Black-H5TR2/203182698#specifications .
+
+__Copyright__
+This file is part of CNCcabinet.
+
+CNCcabinet is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+CNCcabinet is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with CNCcabinet.  If not, see <http://www.gnu.org/licenses/>.
