@@ -1,0 +1,7 @@
+2x8 = (4 + 2 + 4 + 4) / 3 = 5
+1x2 = (5 + 10) / 3 = 5
+2x4 = (6 + 3 + 6 + 6 + 4) / 3  = 9
+
+Finished Plywood (Pallets) 29.5 x 32 x <11/32 - 6
+
+Finished Plywood (Drawers) 28 x 28 x <11/32 - 5
